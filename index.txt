@@ -3,5 +3,6 @@
 <title>Dz</title>
 </head>
 <body>
+<button>Подписаться на новости</button>
 </body>
 </html>
