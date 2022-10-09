@@ -4,6 +4,6 @@
 </head>
 <body>
 <button style = "backgound-color: black">Подписаться на новости</button>
-<button>Отписаться от новостей</button>
+<button style = "background-color: white">Отписаться от новостей</button>
 </body>
 </html>
