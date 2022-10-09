@@ -3,7 +3,7 @@
 <title>Dz</title>
 </head>
 <body>
-<button style = "backgound-color: fffff">Подписаться на новости</button>
+<button style = "backgound-color: fff555f">Подписаться на новости</button>
 <button>Отписаться от новостей</button>
 </body>
 </html>
